@@ -1,8 +1,1 @@
-jfdsjfijfids fdf
-fjdfd fndf
-fd filfjdfd
-fdhfdhlfilsdjgdsG
-g
-dsg
-gsdgi ndsgd
-f
+This project implements a Satellite Pass Scheduler application which takes as input the satellite arrival and departure times from the reception area and outputs the optimal scheduling of data retrieval from satellites so that maximum data is obtained. This is done in the summer of 2012 as part of Summer Internship at National Remote Sensing Center, ISRO, Hyderabad under Dr.M.Satyanarayana.
